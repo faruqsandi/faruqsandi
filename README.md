@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning computer vision and natural language processing. 
+- 💬 Ask me about Python, JavaScript and WordPress.
+- 📫 How to reach me 🅵🅰🆁🆄🆀🆂🅰🅽🅳🅸@🅶🅼🅰🅸🅻.🅲🅾🅼
+- ⚡ Fun fact: I have a secret
+
