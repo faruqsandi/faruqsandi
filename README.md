@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning computer vision and natural language processing. 
-- 💬 Ask me about Python, JavaScript and WordPress.
+- 🌱 I’m currently learning about Python, JavaScript, and WordPress.
+- 🪓 My goal is to specialize in computer vision and natural language processing.
 - 📫 How to reach me 🅵🅰🆁🆄🆀🆂🅰🅽🅳🅸@🅶🅼🅰🅸🅻.🅲🅾🅼
 - ⚡ Fun fact: I have a secret
-
+- 🏢 I hope, I hope, I hope, I hope, I can manage dream AI company: [cubicless](https://www.cubicless.com) and [armipotens](https://www.armipotens.com) 
