@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🌱 I’m currently learning about Python, JavaScript, and WordPress.
+- 🔭 I’m currently working with Python. Along with Numpy, Pandas, Scikit-Learn, Keras and TensorFlow.
+- 🌱 I’m currently learning about JavaScript and Rust.
 - 🪓 My goal is to specialize in computer vision and natural language processing.
 - 📫 How to reach me 🅵🅰🆁🆄🆀🆂🅰🅽🅳🅸@🅶🅼🅰🅸🅻.🅲🅾🅼
 - ⚡ Fun fact: I have a secret
