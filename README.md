@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working at University of Jember as part time researcher assistant and part time Python engineer (freelance).
+- 🔭 I’m currently working at University of Jember as part time [a researcher assistant](https://scholar.google.com/citations?user=ddYR7LUAAAAJ&hl=en) and self-proclaimed [AI engineer](https://antardata.com).
 - 🌱 I’m currently learning about JavaScript and Rust.
 - 🪓 My goal is to specialize in reinforcement learning, computer vision, natural language processing also backend development.
 - 📫 How to reach me 🅵🅰🆁🆄🆀🆂🅰🅽🅳🅸@🅶🅼🅰🅸🅻.🅲🅾🅼
