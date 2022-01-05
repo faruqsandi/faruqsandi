@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working with Python. Along with Numpy, Pandas, Scikit-Learn, Keras and TensorFlow.
+- 🔭 I’m currently working at University of Jember as part time researcher assistant and part time Python engineer (freelance).
 - 🌱 I’m currently learning about JavaScript and Rust.
-- 🪓 My goal is to specialize in computer vision and natural language processing.
+- 🪓 My goal is to specialize in reinforcement learning, computer vision, natural language processing also backend development.
 - 📫 How to reach me 🅵🅰🆁🆄🆀🆂🅰🅽🅳🅸@🅶🅼🅰🅸🅻.🅲🅾🅼
-- ⚡ Fun fact: I have a secret
-- 🏢 I hope, I hope, I hope, I hope, I can manage dream AI company: [cubicless](https://www.cubicless.com) and [armipotens](https://www.armipotens.com) 
