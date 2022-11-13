@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Hi, I am Faruq.
+#### An AI Engineer who occasionally writes papers.
+[![Twitter Follow](https://img.shields.io/twitter/follow/faruqsandi?label=Follow)](https://twitter.com/andlukyane)
+[![Linkedin: andlukyane](https://img.shields.io/badge/-Faruq%20Sandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faruqsandi/)](https://www.linkedin.com/in/faruqsandi/)
+[![Kaggle Badge](https://img.shields.io/badge/-bitterfly-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/bitterfly)](https://www.kaggle.com/bitterfly)
+[![Hackerrank](https://img.shields.io/badge/-bitterfly-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bitterfly)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Faruq-Hanggara)
+![Profile views](https://gpvc.arturio.dev/faruqsandi)
+---
 <!--
 **faruqsandi/faruqsandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
