@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 - 🪓 My goal is to specialize in reinforcement learning, computer vision, natural language processing also [backend development](https://bit.ly/faruqupwork).
 - 📫 How to reach me 🅵🅰🆁🆄🆀🆂🅰🅽🅳🅸@🅶🅼🅰🅸🅻.🅲🅾🅼
 - ⌨️ I like challenge, so here I always available at [Hacker Rank](https://www.hackerrank.com/bitterfly?hr_r=1) and [Kaggle](https://www.kaggle.com/bitterfly).
+
+![Stats](https://github-readme-stats.vercel.app/api?username=faruqsandi&show_icons=true&theme=transparent)
