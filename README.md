@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working at the [University of Jember](https://unej.ac.id) as a part time [researcher assistant](https://scholar.google.com/citations?user=ddYR7LUAAAAJ&hl=en) and self-proclaimed [AI engineer](https://antardata.com).
+- 🔭 ~~I’m currently working at the [University of Jember](https://unej.ac.id) as a part time [researcher assistant](https://scholar.google.com/citations?user=ddYR7LUAAAAJ&hl=en)~~ and self-proclaimed [AI engineer](https://antardata.com).
 - 💬 I was an undergrad computer science student at [IPB University](https://ipb.ac.id) and am currently a master's student in electrical engineering at the [University of Jember](https://unej.ac.id).
 - 🌱 I talk fluently in Python and currently learning about JavaScript and Rust.
 - 🪓 My goal is to specialize in reinforcement learning, computer vision, natural language processing also [backend development](https://bit.ly/faruqupwork).
