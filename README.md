@@ -5,7 +5,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/bitterfly)](https://www.kaggle.com/bitterfly)
 [![Hackerrank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bitterfly)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Faruq-Hanggara)
-![Profile views](https://gpvc.arturio.dev/faruqsandi)
+![Profile views](https://komarev.com/ghpvc/?username=faruqsandi)
 ---
 <!--
 **faruqsandi/faruqsandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
