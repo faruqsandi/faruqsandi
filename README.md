@@ -1,5 +1,4 @@
 ### Hi, I am Faruq, and I like AI and software engineering.
-[![Twitter Follow](https://img.shields.io/twitter/follow/faruqsandi?label=Twitter)](https://twitter.com/faruqsandi)
 [![Linkedin: faruqsandi](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faruqsandi/)](https://www.linkedin.com/in/faruqsandi/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/bitterfly)](https://www.kaggle.com/bitterfly)
 [![Hackerrank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bitterfly)
@@ -8,6 +7,7 @@
 ---
 <!--
 **faruqsandi/faruqsandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/faruqsandi?label=Twitter)](https://twitter.com/faruqsandi)
 
 Here are some ideas to get you started:
 
