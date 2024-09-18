@@ -2,6 +2,7 @@
 [![Linkedin: faruqsandi](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faruqsandi/)](https://www.linkedin.com/in/faruqsandi/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/bitterfly)](https://www.kaggle.com/bitterfly)
 [![Hackerrank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bitterfly)
+[![tlx.toki.id](https://img.shields.io/badge/tlx.toki.id-blue?style=flat)](https://tlx.toki.id/profiles/bit)
 ![Profile views](https://komarev.com/ghpvc/?username=faruqsandi)
 ---
 <!--
