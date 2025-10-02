@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 List of stuff I have use oftenly, at least in the past:
 - pandas, tensorflow, scikit-learn, dask
 - python, anaconda, mamba 🐍
+- celery, huey
 - mongodb, postgres, sqlite, neo4j
 - flask, fastapi, jinja, sqlalchemy
 - selenium, beautifulsoup
