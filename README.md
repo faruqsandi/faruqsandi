@@ -31,3 +31,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 🅵🅰🆁🆄🆀🆂🅰🅽🅳🅸@🅶🅼🅰🅸🅻.🅲🅾🅼
 - ⌨️ I rarely use [HackerRank](https://www.hackerrank.com/bitterfly?hr_r=1) and [Kaggle](https://www.kaggle.com/bitterfly), but I am there.
 - 😁 I am an always-read-the-documentation-guy.
+
+
+List of stuff I have use oftenly, at least in the past:
+- pandas, tensorflow, scikit-learn, dask
+- python, anaconda, mamba 🐍
+- mongodb, postgres, sqlite, neo4j
+- flask, fastapi, jinja, sqlalchemy
+- selenium, beautifulsoup
+- docker, traefik
+- GCP, AWS
