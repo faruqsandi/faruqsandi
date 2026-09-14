@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p dir='rtl' align='left'>بسم الله الرحمن الرحيم</p>
 
 - 🔭 Sometimes I write papers: [Google Scholar](https://scholar.google.com/citations?user=ddYR7LUAAAAJ&hl=en).
-- 📄 Sometimes I write blogs: [Tensoru](https://tensoru.com) and [Coder Saga](https://codersaga.com).
+- 📄 Sometimes I write blogs: [Tensoru](https://blog.tensoru.com).
 - 💬 I have an associate degree in computer engineering, a bachelor's in computer science, and a master's in electrical engineering. Yes, I'm a computer nerd. Currently in search of a scholarship.
 - 🌱 I speak fluently in Python and am currently learning JavaScript.
 - 🪓 Currently working on some [backend development](https://bit.ly/faruqupwork).
